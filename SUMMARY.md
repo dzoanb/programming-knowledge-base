@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome!](README.md)
+
+## General programming
+
+* [Algorithms - cache](general-programming/algorithms-cache.md)
 
