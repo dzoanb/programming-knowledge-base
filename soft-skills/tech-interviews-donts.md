@@ -2,7 +2,7 @@
 description: The things to avoid when leading a technical (or not) interview
 ---
 
-# Do's and don'ts of a technical interviews
+# Do's and don'ts of a technical interview
 
 All of these can throw off the recrutee, take away they're fair chance to show their best. And if they do, you may loose a valuable future employee. It will also discourage this person from ever applying again and spread the negative opinion in their environment.
 

@@ -12,5 +12,5 @@
 
 ## Soft skills
 
-* [Do's and don'ts of a technical interviews](soft-skills/tech-interviews-donts.md)
+* [Do's and don'ts of a technical interview](soft-skills/tech-interviews-donts.md)
 
